@@ -1,2 +1,2 @@
 # smallpig
-项目
+my first time to use Github.
