@@ -1,0 +1,3 @@
+# all the exe file
+./*.exe
+./c/vm/*
